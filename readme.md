@@ -9,3 +9,6 @@ datan hyödyntämisessä. Julian mahdollisuudet suomalaisille startupeille
 - nopea ja yksinkertainen kieli oppia tech-startupeille
 - tehokas datan käsittely, korkea suorituskyky
 - hyvä dokumentaatio
+
+<img src="http://media.valfi.fi/89bca0100e69/face-recognition.jpg">
+Esimerkki, kuinka Juliaa voisi testata pienyrityksen data-analyysissä (lisää kysyttävää: valtteri@valfi.fi)
